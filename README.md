@@ -29,7 +29,7 @@ https://github.com/233boy/v2ray/wiki
 
 
 安装命令:
-git clone https://github.com/sang2010/v2ray -b master
+git clone https://github.com/sang2010/v2ray -b master<br>
 cd v2ray
 chmod +x install.sh
 ./install.sh local
