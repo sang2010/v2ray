@@ -26,3 +26,10 @@ https://github.com/233boy/v2ray/wiki
 
 - [boypt](https://github.com/boypt)
 - [cutelua](https://github.com/cutelua)
+
+
+安装命令:
+git clone https://github.com/sang2010/v2ray -b master
+cd v2ray
+chmod +x install.sh
+./install.sh local
