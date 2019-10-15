@@ -28,8 +28,8 @@ https://github.com/233boy/v2ray/wiki
 - [cutelua](https://github.com/cutelua)
 
 
-安装命令:
+安装命令:<br>
 git clone https://github.com/sang2010/v2ray -b master<br>
-cd v2ray
-chmod +x install.sh
-./install.sh local
+cd v2ray<br>
+chmod +x install.sh<br>
+./install.sh local<br>
